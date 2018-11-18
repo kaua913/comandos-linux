@@ -1,5 +1,5 @@
 #### Atividade 01 - Manipulação de Arquivos e Diretórios
-1. Entre no diretório __/home/kaua/Documentos__ e crie um diretório chamado *Pessoas*.
+1. Entre no diretório __/home/kaua/Documentos/comandos-linux__, crie um diretório chamado *atividade01* e dentro dele outro chamado *Pessoas*.
 
 2. Dentro do diretório Pessoas crie 2 arquivos:
 - Um chamado __Adultos__ 
