@@ -1,0 +1,4 @@
+#Atividades 
+
+
+1. Entre no diretório /home/kaua/documentos e crie um diretório chamado _Pessoas_.
